@@ -1,10 +1,10 @@
 {
-  "name": "System black theme",
-  "description": "Black theme in \"automatic\" dark theme",
+  "name": "Amoled Reimaginato",
+  "description": "Redesign completo del tema Amoled su Discord, funziona anche con il tema impostato in automatico sulle impostazioni di Discord.",
   "authors": [
     {
-      "name": "Mylloon",
-      "id": "158260864623968257"
+      "name": "gocciolafr",
+      "id": "768469568779059250"
     }
   ],
   "spec": 2,
