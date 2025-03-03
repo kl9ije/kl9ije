@@ -14,7 +14,7 @@ Inoltre, so creare Bot Discord, App Android e moddare iOS.
 ## 📂 Progetti attivi
 Ecco una lista di progetti in cui sto lavorando.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spotifinity&repo=app&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spotifinity&repo=app&theme=dark&show_owner=true)](https://github.com/spotifinity/app)
 ## ✏️ Lingue di programmazione
 Conosco un pò di lingue di programmazione, tra i più facili (HTML, CSS, JS e Python) a quelle un pò più complesse (Lua).
 
